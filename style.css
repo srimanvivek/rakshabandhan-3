@@ -341,7 +341,9 @@ main {
   display: flex;
   justify-content: center;
 }
-
+.love__img {
+    background: red;
+}
 .love__img img {
   width: 150px;      /* Try 120–180px */
   height: auto;
