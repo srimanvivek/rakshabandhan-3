@@ -99,8 +99,7 @@
   }
 
   const LETTER_TITLE = "For You";
-  const LETTER_BODY =
-    "Happy Raksha Bandhan! Some bonds are not tied by blood, but by moments, care, and quiet understanding. You've always been a calm presence — someone who never needed to speak much, yet made things feel better just by being there. On this special day, I just want to thank you for being part of this journey. May your life always be filled with peace, love, and silent strength. No matter where life takes us, this thread of connection will always stay.";
+  const LETTER_BODY ="Happy Raksha Bandhan! Some bonds are not tied by blood, but by moments, care, and quiet understanding. You've always been a calm presence — someone who never needed to speak much, yet made things feel better just by being there. On this special day, I just want to thank you for being part of this journey. May your life always be filled with peace, love, and silent strength. No matter where life takes us, this thread of connection will always stay.";
 
   let timers = [];
   function clearTimers() {
